@@ -1,8 +1,8 @@
 openapi: 3.0.2
 info:
   version: 1.0.4
-  title: 
-  description: 
+  title: Kadesh Chain
+  description: Kadesh Chain
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
